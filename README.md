@@ -1,2 +1,73 @@
-# powerbi-advanced-financial-report
-Dashboard avançado de análise financeira desenvolvido no Power BI, focado em navegabilidade dinâmica, UX Design e modelagem de dados (ETL). Inclui relatórios de vendas e lucros com segmentadores personalizados e interatividade completa.
+# 📊 Desafio de Projeto: Relatório de Vendas e Lucros com Power BI (Nível Avançado)
+
+Este repositório contém o segundo desafio de Business Intelligence, focado na criação de um dashboard interativo e elaborado utilizando a base de dados *Financial Sample*. O projeto destaca técnicas de navegabilidade, design de interface (UI) e organização de visuais complexos.
+
+---
+
+## 🏛️ Contexto e Parcerias
+
+* **Plataforma de Ensino**: [DIO (Digital Innovation One)](https://www.dio.me/)
+* **Empresa Patrocinadora**: [Klabin](https://www.klabin.com.br/)
+* **Formação**: Power BI Analyst
+* **Desenvolvedor**: [Fred Cavalheiro]
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/)**: Modelagem, cálculos DAX e criação de visuais.
+* **[Power Query](https://learn.microsoft.com/pt-br/power-query/)**: Saneamento e tratamento da base de dados.
+
+---
+
+## ⚠️ Justificativa e Notas de Ambiente Técnico
+
+Como parte do meu processo de transição de carreira para Tecnologia, este projeto foi desenvolvido sob condições específicas que exigiram soluções alternativas para garantir a entrega:
+
+* **Restrição de Conta Corporativa**: Por não possuir um e-mail institucional/empresarial, a funcionalidade de publicação no **Power BI Service** foi substituída pela entrega do arquivo fonte `.pbix` e demonstração em vídeo.
+* **Adaptação de Visuais (Gráfico de Radar)**: O gráfico de Radar (que exige login na AppSource) foi substituído por visuais nativos de alta performance, garantindo que a análise de dados não fosse prejudicada pela barreira de licenciamento.
+* **Hardware e Resiliência**: O desenvolvimento seguiu em máquina com limitações de hardware, exigindo otimização constante do modelo de dados para evitar travamentos.
+* **Interrupções no Vídeo**: O vídeo de demonstração apresenta alguns pop-ups de autenticação da Microsoft. Tais avisos são decorrentes da tentativa do software em validar uma conta Pro inexistente e foram mantidos para demonstrar a navegabilidade real do dashboard em ambiente de estudante.
+
+---
+
+## 🚀 Estrutura do Relatório
+
+O dashboard foi dividido em duas páginas principais para melhor distribuição da carga cognitiva e clareza visual:
+
+### 1. Sales Report (Página 1)
+* **Navegabilidade**: Inserção de botões de navegação para a página de lucro.
+* **Interatividade**: Botão de "Limpar Segmentações" (Borracha) para resetar filtros de data.
+* **Visuais**: Gráficos de vendas por segmento, país e produto, com segmentadores de data otimizados.
+
+### 2. Profit Analysis (Página 2)
+* **Análise Profunda**: Uso da **Árvore Hierárquica** para decomposição do lucro por país e segmento.
+* **Design**: Segmentadores de ano configurados em estilo **Bloco** para melhor alinhamento estético.
+* **Visuais Complementares**: Gráficos de Cascata por trimestre e análise de lucro por produto (Gráfico de Rosca).
+
+---
+
+## 📂 Entregáveis e Documentação
+
+### 📊 Projeto e Dados
+* [📈 **Arquivo Power BI (.pbix)**](./Desafio_PowerBI_Elaborado.pbix)
+* [📄 **Dataset Utilizado**](./Financial%20Sample.xlsx)
+
+### 🎥 Demonstração
+* [🎥 **Vídeo de Navegação**](./Video_Demonstracao_Dashboard.mp4)
+
+### 🖼️ Galeria de Capturas
+* [🖼️ **Página 1: Sales Report**](./print-pagina-1-sales.png)
+* [🖼️ **Página 2: Profit Analysis**](./print-pagina-2-profit.png)
+
+---
+
+## 📞 Contato e Conexão
+**Fred Cavalheiro**
+* 🔄 **Transição de Carreira:** De Segurança Patrimonial (Vigilante) para Tecnologia/Dados.
+* 🎓 **Técnico em Desenvolvimento de Sistemas** (Senac).
+* 📚 **Estudante de:** Machine Learning e Análise de Dados (Python, Neo4j, Power BI e Excel).
+* 🔗 **[Meu Perfil no LinkedIn](https://www.linkedin.com/in/fred-cavalheiro/)**
+
+---
+**Projeto desenvolvido para consolidar conhecimentos em UI/UX e Navegabilidade no Power BI.**
