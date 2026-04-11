@@ -36,9 +36,12 @@ Como parte do meu processo de transição de carreira para Tecnologia, este proj
 O dashboard foi dividido em duas páginas principais para melhor distribuição da carga cognitiva e clareza visual:
 
 ### 1. Sales Report (Página 1)
-* **Navegabilidade**: Inserção de botões de navegação para a página de lucro.
-* **Interatividade**: Botão de "Limpar Segmentações" (Borracha) para resetar filtros de data.
-* **Visuais**: Gráficos de vendas por segmento, país e produto, com segmentadores de data otimizados.
+* **Navegabilidade**: Botões laterais para alternância rápida entre as páginas de Vendas e Lucro.
+* **Interatividade Avançada (Bookmarks)**: 
+    * Alternância dinâmica entre **Mapa** e **Treemap** para análise geográfica.
+    * Alternância entre **Gráfico de Barras** e **Gráfico de Rosca** utilizando botões de seleção.
+* **Filtros e Ações**: Botão de "Limpar Segmentações" (Borracha) configurado para resetar todos os filtros de data simultaneamente.
+* **Visuais**: Organização de KPIs principais e segmentadores em estilo bloco para melhor aproveitamento de tela.
 
 ### 2. Profit Analysis (Página 2)
 * **Análise Profunda**: Uso da **Árvore Hierárquica** para decomposição do lucro por país e segmento.
