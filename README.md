@@ -60,9 +60,9 @@ O dashboard foi dividido em duas páginas principais para melhor distribuição 
 * [🎥 **Vídeo de Navegação**](./Video_Demonstracao_Dashboard.mp4)
 
 ### 🖼️ Galeria de Capturas
-* [🖼️ **Página 1: Sales Report 1**](./Sales Report 1.png)
-* [🖼️ **Página 1: Sales Report 2**](./Sales Report 2.png)
-* [🖼️ **Página 2: Profit Analysis**](./Profit Analysis.png)
+* [🖼️ **Página 1: Sales Report 1**](./Sales-Report-1.png)
+* [🖼️ **Página 1: Sales Report 2**](./Sales-Report-2.png)
+* [🖼️ **Página 2: Profit Analysis**](./Profit-Analysis.png)
 
 ---
 
