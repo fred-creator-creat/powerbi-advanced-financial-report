@@ -53,8 +53,8 @@ O dashboard foi dividido em duas páginas principais para melhor distribuição 
 ## 📂 Entregáveis e Documentação
 
 ### 📊 Projeto e Dados
-* [📈 **Arquivo Power BI (.pbix)**](./Desafio_PowerBI_Elaborado.pbix)
-* [📄 **Dataset Utilizado**](./Financial%20Sample.xlsx)
+* [📈 **Arquivo Power BI (Sales_Report_Advanced_Analytics.pbix)**](./Sales_Report_Advanced_Analytics.pbix)
+* [📄 **Dataset Utilizado**](./Financial-Sample.xlsx)
 
 ### 🎥 Demonstração
 * [🎥 **Vídeo de Navegação**](./Video_Demonstracao_Dashboard.mp4)
