@@ -25,9 +25,9 @@ Este repositório contém o segundo desafio de Business Intelligence, focado na 
 Como parte do meu processo de transição de carreira para Tecnologia, este projeto foi desenvolvido sob condições específicas que exigiram soluções alternativas para garantir a entrega:
 
 * **Restrição de Conta Corporativa**: Por não possuir um e-mail institucional/empresarial, a funcionalidade de publicação no **Power BI Service** foi substituída pela entrega do arquivo fonte `.pbix` e demonstração em vídeo.
-* **Adaptação de Visuais (Gráfico de Radar)**: O gráfico de Radar (que exige login na AppSource) foi substituído por visuais nativos de alta performance, garantindo que a análise de dados não fosse prejudicada pela barreira de licenciamento.
-* **Hardware e Resiliência**: O desenvolvimento seguiu em máquina com limitações de hardware, exigindo otimização constante do modelo de dados para evitar travamentos.
-* **Interrupções no Vídeo**: O vídeo de demonstração apresenta alguns pop-ups de autenticação da Microsoft. Tais avisos são decorrentes da tentativa do software em validar uma conta Pro inexistente e foram mantidos para demonstrar a navegabilidade real do dashboard em ambiente de estudante.
+* **Adaptação de Visuais (Gráfico de Radar)**: O gráfico de Radar (que exige login na AppSource) foi substituído pelo **Gráfico de Rosca**. Esta escolha técnica garantiu que a análise de dados fosse mantida com visuais nativos de alta performance, oferecendo uma leitura intuitiva e contornando a barreira de licenciamento da AppSource.
+* **Hardware e Resiliência**: O desenvolvimento seguiu em máquina com limitações de hardware, exigindo otimização constante do modelo de dados para evitar travamentos durante o processo criativo.
+* **Interrupções no Vídeo**: O vídeo de demonstração apresenta pop-ups de autenticação da Microsoft. Tais avisos são decorrentes da tentativa automática do software em validar uma conta corporativa inexistente e foram mantidos para registrar a experiência real de navegabilidade e resiliência em ambiente de estudante.
 
 ---
 
@@ -40,6 +40,7 @@ O dashboard foi dividido em duas páginas principais para melhor distribuição 
 * **Interatividade Avançada (Bookmarks)**: 
     * Alternância dinâmica entre **Mapa** e **Treemap** para análise geográfica.
     * Alternância entre **Gráfico de Barras** e **Gráfico de Rosca** utilizando botões de seleção.
+* **Configuração Técnica**: Utilização de **Visuais Selecionados** nos indicadores, garantindo que a troca de gráficos ocorra de forma isolada, sem interferir nos filtros ativos ou nos demais elementos da página.
 * **Filtros e Ações**: Botão de "Limpar Segmentações" (Borracha) configurado para resetar todos os filtros de data simultaneamente.
 * **Visuais**: Organização de KPIs principais e segmentadores em estilo bloco para melhor aproveitamento de tela.
 
