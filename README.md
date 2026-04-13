@@ -1,6 +1,6 @@
 # 📊 Desafio de Projeto: Relatório de Vendas e Lucros com Power BI (Nível Avançado)
 
-Este repositório contém o segundo desafio de Business Intelligence, focado na criação de um dashboard interativo e elaborado utilizando a base de dados *Financial Sample*. O projeto destaca técnicas de navegabilidade, design de interface (UI) e organização de visuais complexos.
+Este repositório contém o desafio de Business Intelligence, focado na criação de um dashboard interativo e elaborado utilizando a base de dados *Financial Sample*. O projeto destaca técnicas de navegabilidade, design de interface (UI) e organização de visuais complexos.
 
 ---
 
