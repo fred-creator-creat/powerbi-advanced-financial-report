@@ -28,6 +28,7 @@ Como parte do meu processo de transição de carreira para Tecnologia, este proj
 * **Adaptação de Visuais (Gráfico de Radar)**: O gráfico de Radar (que exige login na AppSource) foi substituído pelo **Gráfico de Rosca**. Esta escolha técnica garantiu que a análise de dados fosse mantida com visuais nativos de alta performance, oferecendo uma leitura intuitiva e contornando a barreira de licenciamento da AppSource.
 * **Hardware e Resiliência**: O desenvolvimento seguiu em máquina com limitações de hardware, exigindo otimização constante do modelo de dados para evitar travamentos durante o processo criativo.
 * **Interrupções no Vídeo**: O vídeo de demonstração apresenta pop-ups de autenticação da Microsoft. Tais avisos são decorrentes da tentativa automática do software em validar uma conta corporativa inexistente e foram mantidos para registrar a experiência real de navegabilidade e resiliência em ambiente de estudante.
+* **Nota sobre a Demonstração em Vídeo**: Devido à alta frequência de pop-ups de autenticação (que surgem ao acionar filtros de segmentação de data, botões de limpeza e expansão da Árvore Hierárquica), optei por uma apresentação executiva e resumida. Embora todas as funcionalidades (filtros de 2013/2014, borracha de limpeza e detalhamento por produto) estejam 100% operacionais e testadas, o vídeo foca na navegabilidade principal para evitar uma duração excessiva e garantir a clareza visual da entrega.
 
 ---
 
